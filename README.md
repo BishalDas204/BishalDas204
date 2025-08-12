@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BishalDas204
-- 👀 I’m interested in Web Development, Cyber Security, Cloud Computing, UI Designing, Data Analytics, Operations Management
+- 👀 I’m interested in Web Development, Cyber Security, Cloud Computing, UI Designing, Data Analytics, & Operations Management
 - 🌱 I’m currently learning Java, & Web Development.
 - 💞️ I’m looking to collaborate on Web Develeopment & Python Development.
 
